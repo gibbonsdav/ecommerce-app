@@ -1,6 +1,6 @@
 import React from "react"
 
-const homepage = () => (
+const HomePage = () => (
   <div className="homepage">
     <div className="directory-menu">
       <div className="menu-item">
@@ -43,4 +43,4 @@ const homepage = () => (
   </div>
 )
 
-export default homepage
+export default HomePage
